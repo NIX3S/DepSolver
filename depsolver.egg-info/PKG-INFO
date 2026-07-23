@@ -1,0 +1,7 @@
+Metadata-Version: 2.4
+Name: depsolver
+Version: 0.1.0
+Summary: Résolveur de dépendances Python sûres, récentes et API-compatibles
+Requires-Python: >=3.9
+Requires-Dist: packaging>=23.0
+Requires-Dist: requests>=2.28
